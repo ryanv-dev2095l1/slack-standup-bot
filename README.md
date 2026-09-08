@@ -60,3 +60,5 @@ standupbot status
 ## License
 
 MIT
+
+<!-- checked: 2026-09-08 -->
